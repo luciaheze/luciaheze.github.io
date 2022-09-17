@@ -96,7 +96,7 @@
 
 article {
     width: 100%;
-    background-color: #2d5d72;
+    background-color: #856d72;
     padding: 50px 0;
 }
 
@@ -162,7 +162,7 @@ header {
     width: 100%;
     height: calc(100vh + 200px) ;
     overflow: hidden;
-    background: #2d5d72;
+    background:  #856d72;
 }
 
 p span {
