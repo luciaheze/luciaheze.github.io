@@ -635,3 +635,8 @@ div[class^="intro-word"] div img {
   }
 
 }
+.ge-no1 img{
+    margin:auto;
+    width:500px;
+    height:auto;
+}       
