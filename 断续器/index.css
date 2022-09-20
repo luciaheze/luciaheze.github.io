@@ -221,51 +221,34 @@ div[class^="bg"] div {
 
 .bgOne {
     background: url('../images/part1.webp') no-repeat;
-    z-index: -4;
-    background-position: center bottom;
-}
-
-.bgOne div {
-    opacity: 0;
-    background: url('../images/part1-title.webp') no-repeat;
+    z-index: -5;
     background-position: center bottom;
 }
 
 .bgTwo {
     background: url('../images/part2.webp') no-repeat;
-    z-index: -3;
-    background-position: center top;
-}
-
-.bgTwo div {
-    background: url('../images/part2-title.webp') no-repeat;
-    opacity: 0;
+    z-index: -4;
     background-position: center top;
 }
 
 .bgThree {
     background: url('../images/part3.webp') no-repeat;
     display: none;
-    z-index: -2;
-    background-position: center top;
-}
-
-.bgThree div {
-    background: url('../images/part3-title.webp') no-repeat;
-    opacity: 0;
+    z-index: -3;
     background-position: center top;
 }
 
 .bgFour {
     background: url('../images/part4.webp') no-repeat;
     display: none;
-    z-index: -1;
+    z-index: -2;
     background-position: center bottom;
 }
 
-.bgFour div {
-    background: url('../images/part4-title.webp') no-repeat;
-    opacity: 0;
+.bgFive {
+    background: url('../images/part4.webp') no-repeat;
+    display: none;
+    z-index: -1;
     background-position: center bottom;
 }
 
